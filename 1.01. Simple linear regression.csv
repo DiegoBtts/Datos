@@ -1,4 +1,4 @@
-﻿"""SAT""","""GPA""","""prediccion""","""Error""","""Error al cuadrado"""
+﻿SAT,GPA,prediccion,Error,Error al cuadrado
 1714,2.4,3.1888,0.7888,0.62220544
 1664,2.52,3.1038,0.5838,0.34082244
 1760,2.54,3.267,0.727,0.528529
